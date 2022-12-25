@@ -1,5 +1,5 @@
 """
-Made with ♥ By Ahad#3257
+Made with ♥ By Haris
 """
 import pyautogui
 import time
